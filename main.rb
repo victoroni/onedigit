@@ -1,1 +1,1 @@
-printe "hello world"
+puts "hello world"
